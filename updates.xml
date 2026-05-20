@@ -2,7 +2,7 @@
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="iplfmhongnmljglgmoelgaggjdofbjhb">
     <updatecheck
-      codebase="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/HouseholdNoMore.crx"
+      codebase="https://raw.githubusercontent.com/SoloMona18/Host_Edge_HouseholdNoMore/main/HouseholdNoMore.crx"
       version="1.9" />
   </app>
 </gupdate>
